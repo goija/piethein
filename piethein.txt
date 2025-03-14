@@ -1,0 +1,13 @@
+# piethein
+<osm version="0.6" generator="openstreetmap-cgimap 2.0.1 (2557198 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<node id="2737318843" visible="true" version="1" changeset="21269388" timestamp="2014-03-23T17:48:49Z" user="hvdwolf_BAG" uid="1881126" lat="52.2707830" lon="6.1139769">
+<tag k="addr:city" v="Terwolde"/>
+<tag k="addr:housenumber" v="15"/>
+<tag k="addr:postcode" v="7396NB"/>
+<tag k="addr:street" v="Bandijk"/>
+<tag k="source" v="BAG"/>
+<tag k="source:date" v="2014-02-11"/>
+</node>
+</osm>
+
+
